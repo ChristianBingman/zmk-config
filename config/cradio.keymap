@@ -42,7 +42,7 @@
             &kp A      &kp S      &kp D      &kp F      &kp G          &kp H      &kp J      &kp K      &kp L      &kp LSHFT
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ ENTER      │
-            &kp Z      &kp X      &kp C      &kp V      &kp B          &LCAG(N)   &kp M   &ht LALT COMMA  &ht LCTRL DOT  &ht LGUI ENTER
+            &kp Z      &kp X      &kp C      &kp V      &kp B          LCAG(N)   &kp M   &ht LALT COMMA  &ht LCTRL DOT  &ht LGUI ENTER
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                             &lt 1 TAB   &kp SPACE      &kp BSPC   &mo 2
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
