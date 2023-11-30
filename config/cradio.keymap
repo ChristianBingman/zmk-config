@@ -8,6 +8,10 @@
 #define MEH(kc) &ht LS(LC(LALT)) kc
 #define LCAG(kc) &ht LG(LC(LALT)) kc
 
+&sk {
+  quick-release;
+};
+
 / {
     behaviors {
         ht: hold_tap {
