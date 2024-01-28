@@ -59,8 +59,8 @@
         //│ BSPC     │  7       │  8       │  9       │  +       │   │ POWER    │ ESCAPE   │ UP       │ BRIGHT_DN│ BRIGHT_UP│
             &kp BSPC   &kp N7     &kp N8     &kp N9     &kp PLUS       &kp C_PWR  &kp ESC   &kp UARW    &kp C_BRI_DN  &kp C_BRI_UP
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│ 0        │  4       │  5       │  6       │  -       │   │          │ LEFT     │ DOWN     │ RIGHT    │ ENTER    │
-            &kp N0     &kp N4     &kp N5     &kp N6     &kp MINUS      &trans     &kp LARW   &kp DARW   &kp RARW  &kp ENTER
+        //│ 0        │  4       │  5       │  6       │  -       │   │ DELETE   │ LEFT     │ DOWN     │ RIGHT    │ ENTER    │
+            &kp N0     &kp N4     &kp N5     &kp N6     &kp MINUS      &kp DELETE &kp LARW   &kp DARW   &kp RARW  &kp ENTER
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  1       │  2       │  3       │  =       │   │ MUTE     │ VOL_DN   │ PLAY     │ VOL_UP   │  NEXT    │
             &trans     &kp N1     &kp N2     &kp N3     &kp EQUAL      &kp C_MUTE &kp C_VOL_DN  &kp C_PLAY  &kp C_VOL_UP  &kp C_NEXT
